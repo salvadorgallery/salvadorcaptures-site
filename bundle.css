@@ -260,6 +260,11 @@ ul .links{
     .links-mobile{
         padding:15px 0px;
     }
+    
+     .post img{
+        padding:0px;
+    }
+
 
 }
 
@@ -272,7 +277,7 @@ ul .links{
     }
     
     .post img{
-        padding:5px 0px 5px 0px;
+        padding-bottom:2px;
     }
 
     .title-mobile{
@@ -285,6 +290,11 @@ ul .links{
     .post{
         width:1175px;
     }
+    
+    .post img{
+        padding-bottom:2px;
+    }
+
 
     .nav{
         width: 1175px;
